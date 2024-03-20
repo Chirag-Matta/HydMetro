@@ -1,12 +1,10 @@
 # Dijkstras-algorithm-Hyderabad metro 
 
-Introduction:
-This C++ code demonstrates the practical application of Dijkstra's algorithm in real-time scenarios, specifically in the context of Hyderabad's metro system. The algorithm is employed to determine the shortest path from a selected source station to every destination station. In this implementation, each of the 56 metro stations in Hyderabad is assigned a unique integer value starting from 0. Upon user input of the source station, Dijkstra's algorithm is executed to calculate and display the minimum number of stations required to reach every other station from the source.
+This C++ code exemplifies the practical implementation of Dijkstra's algorithm within the context of Hyderabad's metro system, showcasing its utility in determining the shortest paths from a chosen source station to all other stations. Each of the 56 metro stations in Hyderabad is mapped to a unique integer value, starting from 0. Upon receiving user input for the source station, the algorithm is triggered to compute and exhibit the minimum number of stations required to reach each destination from the selected source.
 
-Algorithmic Complexity:
-The time complexity associated with Dijkstra's algorithm is O(V^2), where V represents the number of vertices in the graph. The space complexity of the algorithm is O(V).
+The algorithm's time complexity is O(V^2), where V denotes the number of vertices in the graph, while the space complexity stands at O(V). This project serves to enhance comprehension of graph concepts and the significance of Dijkstra's algorithm, a fundamental component in graph theory.
 
-This project improves the basic understanding of graph concepts and one of the most important algorithm "DIJKSTRA'S ALGORITHM"
+
 
 # STATION CODES
         Node number                                       Station Name
