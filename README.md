@@ -1,4 +1,4 @@
-# Dijkstras-algorithm-Hyderabad metro 
+# Hyderabad Metro based on Dijkstra's Algorithm
 
 This C++ code exemplifies the practical implementation of Dijkstra's algorithm within the context of Hyderabad's metro system, showcasing its utility in determining the shortest paths from a chosen source station to all other stations. Each of the 56 metro stations in Hyderabad is mapped to a unique integer value, starting from 0. Upon receiving user input for the source station, the algorithm is triggered to compute and exhibit the minimum number of stations required to reach each destination from the selected source.
 
